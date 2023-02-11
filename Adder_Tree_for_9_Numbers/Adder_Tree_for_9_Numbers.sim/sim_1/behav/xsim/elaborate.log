@@ -1,0 +1,26 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/ProgramFiles/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto dc88d17c7b9b4433beb149297a958858 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_adder_tree_behav xil_defaultlib.tb_adder_tree xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:53]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:54]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:55]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:56]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:57]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:58]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:59]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:60]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:61]
+WARNING: [VRFC 10-3489] invalid expression in system call 'itor' [C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.srcs/sim_1/new/adder_tree_test_bench.v:63]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/HP/OneDrive/Documents/Final Year Project/Adder_Tree_for_9_Numbers/Adder_Tree_for_9_Numbers.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.adder_tree
+Compiling module xil_defaultlib.tb_adder_tree
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_adder_tree_behav
