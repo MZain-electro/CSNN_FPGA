@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 14 12:37:24 2023
+# Process ID: 16776
+# Current directory: C:/Users/HP/OneDrive/Documents/Final Year Project/Register_to_save_added_output/Register_to_save_added_output.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/HP/OneDrive/Documents/Final Year Project/Register_to_save_added_output/Register_to_save_added_output.sim/sim_1/behav/xsim/xsim.dir/register_save_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/HP/OneDrive/Documents/Final Year Project/Register_to_save_added_output/Register_to_save_added_output.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/HP/OneDrive/Documents/Final Year Project/Register_to_save_added_output/Register_to_save_added_output.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/HP/OneDrive/Documents/Final -notrace
+couldn't read file "C:/Users/HP/OneDrive/Documents/Final": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Feb 14 12:37:24 2023...
